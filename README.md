@@ -28,10 +28,10 @@ Run Step 5 in Client Directory
 ```  
 Deploying contracts on the goerli test network:
  1. npm install dotenv   (run this everytime you change your environment variables)
- 2.npm hardhat run --network goerli scripts/finalDeploy.js
+ 2.npx hardhat run --network goerli scripts/finalDeploy.js
  3.once the above statement is executed a contract address is created, 
  4.copy the contract address and replace it with the "contract address" variable in "App.js" file
- 5.change directory into Client and execute "npm run"
+ 5.change directory into Client(cd client) and execute "npm start"
 ``` 
 ```
 Links:
