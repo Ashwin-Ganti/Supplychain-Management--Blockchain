@@ -1,3 +1,18 @@
+
+The Blockchain era offers critical opportunities for the supply chain
+management control. The aim of our project is the employment of blockchain
+generation in the field of deliver/supply chain management. Though BCT (Blockchain
+chain technology) has been widely involved in the field of cryptocurrencies, non-
+financial applications which include supply chain, electricity, and food industry are
+also planning. Blockchain can offer an eternal, sharable, auditable document of
+merchandise through their supply chain, which improves product traceability,
+authenticity, and legality in a greater value-effective way. Blockchain is a distributed
+ledger technology that captured the attention of all practitioners and educators last year.
+A large number of conceptual studies and small number of empirical studies have been
+published that focus on addressing contemporary issues and recommending future
+research directions on Supply Chain governance.
+
+
 #Steps to run this project
 ``` shell script
 Installing packages on VScode :
